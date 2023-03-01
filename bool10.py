@@ -8,4 +8,3 @@ def main(a):
     """
     # Write your code here
     return a!=15
-print(main(15))
