@@ -4,7 +4,7 @@ def main(a):
     Args:
         a: int
     Returns:
-        bool
+        bool 
     """
     # Write your code here
 
